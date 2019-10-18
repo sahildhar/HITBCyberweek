@@ -9,11 +9,18 @@
 * [Download](https://drive.google.com/uc?id=1WC2mEu59jARtJU7F4LZdUDcABxKng3iV&export=download)
 
 
-### Installing Genymotion
+#### 1] Installing and Configuring  Genymotion
 
 * https://docs.genymotion.com/desktop/3.0/01_Get_started/012_Installation.html#linux
 
-### Configuring Genymotion with Android Studio 
+#### 2] Configure Genymotion with Android Studio 
 
 * https://www.genymotion.com/plugins/
+	
+#### 3] Add ARM Translation to Genymotion Emulator
+
+* https://pentester.land/tips-n-tricks/2018/10/19/installing-arm-android-apps-on-genymotion-devices.html
+	
+#### 4] Enable OpenGapps in genymotion emulator
+* https://ask.ericlin.info/post/2017/08/genymotion-now-comes-with-open-gapps-installer/
 
