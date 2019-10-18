@@ -1,5 +1,4 @@
 #### [Exercise] Bypassing Client-side defenses with Frida 
-
 ```bash
 # push frida server on the emulator
 adb push frida-server-12.7.5-android-x86 /data/local/tmp
@@ -24,4 +23,8 @@ frida  -U –l root_detection_bypass.js –f owasp.mstg.uncrackable1 --no-pause
 # execute universal SSL Pinning bypass script for twitter application
 frida  -U –l ssl-pin.js –f com.twitter.android --no-pause
 ```
+#### To learn more about frida, have a look at following offline and online resources
 
+* You can refer slides "DBI-Assisted Android Application Reverse Engineering.pdf" saved the WorkshopMaterial/notes/ folder
+
+* https://www.frida.re/docs/javascript-api/ 
