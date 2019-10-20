@@ -28,3 +28,7 @@ frida  -U –l ssl-pin.js –f com.twitter.android --no-pause
 * You can refer slides "DBI-Assisted Android Application Reverse Engineering.pdf" saved the WorkshopMaterial/notes/ folder
 
 * https://www.frida.re/docs/javascript-api/ 
+
+#### My tool for injecting and running Frida on non-rooted android devices
+
+* https://github.com/sahildhar/mlibinjector
